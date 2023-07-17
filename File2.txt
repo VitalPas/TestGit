@@ -1,2 +1,4 @@
 Good buy
 Some line
+
+Line from user2
