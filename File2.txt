@@ -2,3 +2,5 @@ Good buy
 Some line
 
 Line from user2
+
+user 2 work in file2
