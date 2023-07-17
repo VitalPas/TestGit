@@ -4,4 +4,4 @@ commit a m and ammend
 
 PUSH ON git
 
-Исправил ошибку
+user1 work
