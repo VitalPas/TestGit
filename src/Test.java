@@ -4,5 +4,7 @@ public class Test {
         System.out.println("Changed in test from master branch");
 
         System.out.println("Изменения в ветке add-feature1");
+
+        System.out.println("bpvtytyb zosnfsjfdsjbdfsk");
     }
 }
