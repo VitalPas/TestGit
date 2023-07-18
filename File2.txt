@@ -1,6 +1,5 @@
 Good buy
 Some line
 
-Line from user2
+Line from user1 Изменение в ветке user1 для теста
 
-user 2 work in file2
