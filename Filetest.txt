@@ -4,4 +4,4 @@ commit a m and ammend
 
 PUSH ON git
 
-Исправил ошибку
+System.out.println(Изменение в ветке master)
