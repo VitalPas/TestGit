@@ -1,6 +1,5 @@
 Good buy
 Some line
 
-Line from user2
+Line from user2 Изменения у user 2 для теста
 
-user 2 work in file2
